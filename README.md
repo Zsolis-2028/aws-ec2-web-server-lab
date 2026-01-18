@@ -1,7 +1,7 @@
-# aws-ec2-web-server-lab# AWS EC2 Web Server Lab
+# Deploying and Configuring a public AWS web server to demonstrate cloud fundamentals for IT roles
 
 ## Overview
-This project demonstrates deploying a public web server on AWS using EC2 and Amazon Linux.
+This project demonstrates how to deploy a public web server on AWS using EC2 and Amazon Linux.
 
 ## Technologies Used
 - AWS EC2
